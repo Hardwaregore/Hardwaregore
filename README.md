@@ -11,6 +11,6 @@ enter your password!
 
 
 
-![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&_icons=true&theme=algolia )
+![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia )
 
 -@Hardwaregore
