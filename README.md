@@ -11,5 +11,6 @@ Also, to make your mac faster, open the terminal and type
 enter your password!
 
 
- -- @Hardwaregore
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore)
+- @Hardwaregore
