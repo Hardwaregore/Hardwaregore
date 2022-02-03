@@ -10,7 +10,7 @@ Also, to make your mac faster, open the terminal and type
  "     and
 enter your password!
 
-(don't put the quotes in. if you did, "u r n id10t")
+(don't put the quotation marks in. if you did, "u r n id10t")
 
 
 
