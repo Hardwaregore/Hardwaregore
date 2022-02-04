@@ -16,4 +16,6 @@ enter your password!
 
 ![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia )
 
+[![Hardwaregore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hardwaregore)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 -@Hardwaregore
