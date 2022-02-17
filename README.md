@@ -13,11 +13,11 @@ enter your password!
 
 (don't put the quotation marks in. if you did, "u r n id10t")
 
-![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)
 
 
 
-![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia )
+
+![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif) ![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia )
 
 [![Hardwaregore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
