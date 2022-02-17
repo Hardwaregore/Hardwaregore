@@ -5,7 +5,7 @@
 
  - I can be reached at hardwaregore101@gmail.com
  
-👉🏻 😱Bake a raspberry pi from amazon they said! It would be fun they said! BOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
+👉🏻 😱Bake a raspberry pi from amazon they said! It would be fun they said! Then it all went BOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
 
 
 
