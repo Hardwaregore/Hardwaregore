@@ -1,5 +1,5 @@
 ![Website_Logo_Transparent](https://user-images.githubusercontent.com/88296644/154393020-9466edd0-3231-4526-9e5b-a2857e04973a.png)
--   👋 Hi, I’m @Hardwaregore
+-   #👋 Hi, I’m @Hardwaregore
 - I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS,& java. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA . Currently, i am working on a website called "insane chess" where people can play chess with friends. I can be reached at hardwaregore101@gmail.com
 -   👉🏻 Currectly I am dealing with a web server that went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
 
