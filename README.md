@@ -12,6 +12,7 @@ Also, to make your mac faster, open the terminal and type
 enter your password!
 
 (don't put the quotation marks in. if you did, "u r n id10t")
+
 ![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)
 
 
