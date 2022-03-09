@@ -25,6 +25,7 @@ enter your password!
 
 
 ![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)­ ­ ­![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia )
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hardwaregore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
