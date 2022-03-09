@@ -6,9 +6,7 @@
 
  - I can be reached at hardwaregore101@gmail.com
  
- - Current project I am working on:
- [![Readme Card](https://github.com/Hardwaregore/insane-chess)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 👉🏻 😱Bake a raspberry pi from amazon they said! It would be fun they said! 
 Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
 
