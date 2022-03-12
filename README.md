@@ -19,7 +19,7 @@
 Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
 
 
-
+-----------------------------------------------------------------------------------
 
 
 Also, to make your mac faster, open the terminal and type
@@ -27,7 +27,7 @@ Also, to make your mac faster, open the terminal and type
 
 
 
-
+-----------------------------------------------------------------------------------
 
 
 
