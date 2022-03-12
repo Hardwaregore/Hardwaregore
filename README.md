@@ -35,11 +35,11 @@ Also, to make your mac faster, open the terminal and type
  
  - [ ] Insane Chess
  
+ - [ ] GrassBandits
+ 
  - [x] DELETE-EVERYTHING
  
  - [x] WhiteScreen
- 
- - [ ] GrassBandits
  
  -----------------------------------------------------------------------------------
 
