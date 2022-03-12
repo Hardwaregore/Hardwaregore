@@ -33,10 +33,14 @@ Also, to make your mac faster, open the terminal and type
  
  Projects I am working on:
  
- - [] Insane Chess
+ - [ ] Insane Chess
+ 
  - [x] DELETE-EVERYTHING
+ 
  -[x] WhiteScreen
- - [] GrassBandits
+ 
+ - [ ] GrassBandits
+
  
 
 
