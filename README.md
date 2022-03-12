@@ -9,7 +9,7 @@
  
  -- *Facts about me (new one added every week)*:
  
-  *I used to think a pull request was to get content off of github. That is why I have so little PR's
+  * I used to think a pull request was to get content off of github. That is why I have so little PR's
  
 
  
