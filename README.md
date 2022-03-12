@@ -8,7 +8,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - I can be reached at hardwaregore101@gmail.com
  
-===================================================================================
+##################################################################################
  
 # *Facts about me (new one added every week)*:
  
