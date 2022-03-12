@@ -6,6 +6,7 @@
  
  - I can be reached at hardwaregore101@gmail.com
  
+ ================================================================================
  
  -- *Facts about me (new one added every week)*:
  
