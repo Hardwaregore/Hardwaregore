@@ -6,6 +6,10 @@
  
  - I can be reached at hardwaregore101@gmail.com
  
+ 
+ -- *Facts about me (new one added every week)*:
+    1. I used to think a pull request was to get content off of github. That is whi i have so little
+ 
 
 👉🏻 😱Bake a raspberry pi from amazon they said! It would be fun they said! 
 Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
