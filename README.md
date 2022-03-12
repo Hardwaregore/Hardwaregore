@@ -56,7 +56,7 @@ Also, to make your mac faster, open the terminal and type
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=Insane-chess&theme=algolia)](https://github.com/Hardwaregore/insane-chess)
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)(https://github.com/Hardwaregore/DELETE-EVERYTHING)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)()
  
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=WhiteScreen&theme=algolia)](https://github.com/Hardwaregore/WhiteScreen)
