@@ -37,9 +37,11 @@ Also, to make your mac faster, open the terminal and type
  
  - [x] DELETE-EVERYTHING
  
- -[x] WhiteScreen
+ - [x] WhiteScreen
  
  - [ ] GrassBandits
+ 
+ -----------------------------------------------------------------------------------
 
  
 
