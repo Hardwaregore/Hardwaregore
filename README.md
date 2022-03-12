@@ -68,5 +68,5 @@ Also, to make your mac faster, open the terminal and type
 
 <div>
 
-[#] ⊖ ~$Hardwaregore
+[#]~$Hardwaregore
  </div>
