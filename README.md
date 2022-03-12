@@ -10,7 +10,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
 ===================================================================================
  
- -- *Facts about me (new one added every week)*:
+# *Facts about me (new one added every week)*:
  
   * I used to think a pull request was to get content off of github. That is why I have so little PR's
  
@@ -31,7 +31,7 @@ Also, to make your mac faster, open the terminal and type
 
 -----------------------------------------------------------------------------------
  
- Projects I am working on:
+ # Projects I am working on:
  
  - [ ] Insane Chess
  
