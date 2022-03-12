@@ -2,7 +2,7 @@
 # <h2 align='center'> <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"><i>Hi, I'm @Hardwaregore </h2>
 
  I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS, & java. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
- - Currently, i am working on a website called "insane chess" where people can play custom variants of chess with friends. 
+ - Currently, i am working on a website called "insane chess" where people can play custom variants of chess with friends.
 
  - I can be reached at hardwaregore101@gmail.com
  
