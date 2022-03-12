@@ -8,7 +8,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - I can be reached at hardwaregore101@gmail.com
  
-##################################################################################
+
  
 # *Facts about me (new one added every week)*:
  
@@ -19,14 +19,14 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  
  # Some other stuff ↓
------------------------------------------------------------------------------------
+
  
  
 👉🏻 😱 Bake a raspberry pi from amazon they said! It would be fun they said! 
 Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
 
 
------------------------------------------------------------------------------------
+
 
 
 Also, to make your mac faster, open the terminal and type
