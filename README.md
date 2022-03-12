@@ -15,6 +15,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
   * I used to think a pull request was to get content off of github. That is why I have so little PR's
   * I basicly never fork repos because I prefer my repos list to be clean
   * For some reason, most people at the school I go to thinks that github was the same thing as p**nhub
+  * One day, I accidently forked a fork. And legends state that it was still stuck on my repos list to this very day...
  
  
  # Some other stuff ↓
