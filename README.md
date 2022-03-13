@@ -38,11 +38,11 @@ Also, to make your mac faster, open the terminal and type
  
  # Projects I am working on:
  
- - [ ] Insane Chess
+ - [ ] Insane Chess (NOWHERE NEAR COMPLETE)
  
- - [ ] GrassBandits
+ - [ ] GrassBandits (NOT MY PROJECT)
  
- - [x] DELETE-EVERYTHING (FINISHED)
+ - [ ] DELETE-EVERYTHING (LAST MINUTE CHANGES IN PROGRESS)
  
  - [ ] WhiteScreen (ALMOST DONE)
  
