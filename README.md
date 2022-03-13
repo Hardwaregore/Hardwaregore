@@ -49,7 +49,7 @@ Also, to make your mac faster, open the terminal and type
  -----------------------------------------------------------------------------------
 
  
-
+# Github Stats and other stuff: 
 
 
 ![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)­ ­ ­![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia&include_all_commits=true)
