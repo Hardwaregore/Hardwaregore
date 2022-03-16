@@ -85,6 +85,6 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
 <div>
 
-[#]~$Hardwaregore
+## [#]~$Hardwaregore
  
  </div>
