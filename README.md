@@ -22,11 +22,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 
  
  
-👉🏻 😱 Bake a raspberry pi from amazon they said! It would be fun they said! 
-Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
- 
- 
-----------------------------------------------------------------------------------------------------------
+
 
 ### PARADOX ALERT!
  
