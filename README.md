@@ -25,13 +25,15 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 👉🏻 😱 Bake a raspberry pi from amazon they said! It would be fun they said! 
 Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
  
+ 
+----------------------------------------------------------------------------------------------------------
 
 PARADOX ALERT!
  
  ![Screen Shot 2022-03-15 at 9 44 30 PM](https://user-images.githubusercontent.com/88296644/158506347-7f2f7830-7fef-4908-be2f-2040549e3d4a.png)
 
 
-
+--------------------------------------------------------------------------------------------------------
 
 
 
