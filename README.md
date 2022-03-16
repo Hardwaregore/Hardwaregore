@@ -42,9 +42,9 @@ Also, to make your mac faster, open the terminal and type
  
  - [ ] GrassBandits (NOT MY PROJECT)
  
- - [ ] DELETE-EVERYTHING (LAST MINUTE CHANGES IN PROGRESS)
+ - [x] DELETE-EVERYTHING (FINISHED)
  
- - [ ] WhiteScreen (ALMOST DONE)
+ - [x] WhiteScreen (FINISHED)
  
  -----------------------------------------------------------------------------------
 
