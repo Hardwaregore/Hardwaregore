@@ -38,7 +38,7 @@ Also, to make your mac faster, open the terminal and type
 
 
 
------------------------------------------------------------------------------------
+
  
  # Projects I am working on:
  
@@ -50,7 +50,7 @@ Also, to make your mac faster, open the terminal and type
  
  - [x] WhiteScreen (FINISHED)
  
- -----------------------------------------------------------------------------------
+
 
  
 # Github Stats: 
