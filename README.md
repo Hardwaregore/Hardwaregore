@@ -24,7 +24,10 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
 👉🏻 😱 Bake a raspberry pi from amazon they said! It would be fun they said! 
 Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥🤬
+ 
 
+PARADOX ALERT!
+ ![ynkordhdzin81](https://user-images.githubusercontent.com/88296644/158506069-1e26cb15-35dc-4b54-bad6-0683b7c09825.jpg)
 
 
 
