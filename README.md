@@ -28,7 +28,8 @@ Then it all went BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!!!!!!!!!!!! 💣💥�
 
 PARADOX ALERT!
  
- ![ynkordhdzin81](https://user-images.githubusercontent.com/88296644/158506069-1e26cb15-35dc-4b54-bad6-0683b7c09825.jpg)
+ ![Screen Shot 2022-03-15 at 9 42 53 PM](https://user-images.githubusercontent.com/88296644/158506207-cccb0baa-c8b5-47fb-84da-196df76fc2ec.png)
+
 
 
 
