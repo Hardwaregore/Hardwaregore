@@ -89,3 +89,9 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
 ## [#]~$Hardwaregore
  
  </div>
+ 
+ 
+ 
+ 
+ ![88296644](https://user-images.githubusercontent.com/88296644/159379764-f008b80a-07f4-4844-a199-8d937fe1751c.png)
+
