@@ -51,8 +51,6 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  - [x] WhiteScreen (FINISHED)
  
 ----------------------------------------------------------------------------------------------------
- ![.github/workflows/update-readme.yml]
-
  
 # Github Stats: 
 
