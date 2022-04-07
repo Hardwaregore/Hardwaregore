@@ -50,9 +50,15 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - [x] WhiteScreen (FINISHED)
  
+ - [x] AutomaticGitCloner (FINISHED)
+ 
+ - [x] SSH-man (FINISHED)
+ 
 ----------------------------------------------------------------------------------------------------
  
 # Github Stats: 
+ 
+ ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=green)
 
 
 ![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia&include_all_commits=true)
