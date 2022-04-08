@@ -81,6 +81,10 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=SSH-mgr&theme=algolia)](https://github.com/Hardwaregore/ssh-man)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=AutomaticGitCloner&theme=algolia)](https://github.com/Hardwaregore/AutomaticGitCloner)
+ 
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=WhiteScreen&theme=algolia)](https://github.com/Hardwaregore/WhiteScreen)
  
