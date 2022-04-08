@@ -52,7 +52,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - [x] AutomaticGitCloner (FINISHED)
  
- - [x] SSH-man (FINISHED)
+ - [x] SSH-mgr (FINISHED)
  
 ----------------------------------------------------------------------------------------------------
  
