@@ -58,17 +58,17 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
 # Github Stats: 
  
- ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=green)
+ ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue)
 
 
-![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=bash&include_all_commits=true)
+![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia&include_all_commits=true)
  
  
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact&theme=bash)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hardwaregore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hardwaregore&theme=bash)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hardwaregore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -------------------------------------------------------------------------------------------------------------
  
