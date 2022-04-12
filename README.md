@@ -61,7 +61,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue)
 
 
-![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia&include_all_commits=true)
+![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia)
  
  
  
