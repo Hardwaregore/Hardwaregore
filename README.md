@@ -42,9 +42,15 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  # Projects I am working on:
  
- - [ ] Insane Chess (NOWHERE NEAR COMPLETE)
+ - [ ] Insane Chess 
  
- - [ ] GrassBandits (NOT MY PROJECT)
+ - [ ] GrassBandits 
+ 
+ - [ ] Burh_os
+ 
+ - [ ] Bish
+ 
+ - [ ] BASHTE
  
  - [x] DELETE-EVERYTHING (FINISHED)
  
