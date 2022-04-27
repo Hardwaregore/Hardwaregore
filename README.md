@@ -52,13 +52,6 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - [ ] BASHTE
  
- - [x] DELETE-EVERYTHING (FINISHED)
- 
- - [x] WhiteScreen (FINISHED)
- 
- - [x] AutomaticGitCloner (FINISHED)
- 
- - [x] SSH-mgr (FINISHED)
  
 ----------------------------------------------------------------------------------------------------
  
