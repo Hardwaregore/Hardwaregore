@@ -11,7 +11,7 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
 
  
-# *Facts about me (new one added every week)*:
+# *Facts about me*:
  
   * I used to think a pull request was for getting content off of github. That is why I have so little PR's
   * I basicly never fork repos because I prefer my repos list to be clean
