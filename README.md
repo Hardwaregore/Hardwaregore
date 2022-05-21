@@ -75,18 +75,14 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=Insane-chess&theme=algolia)](https://github.com/Hardwaregore/insane-chess)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=insane-chess&theme=algolia)](https://github.com/Hardwaregore/insane-chess)
  
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=SSH-mgr&theme=algolia)](https://github.com/Hardwaregore/ssh-man)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=SSH-mgr&theme=algolia)](https://github.com/Hardwaregore/manager)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=AutomaticGitCloner&theme=algolia)](https://github.com/Hardwaregore/AutomaticGitCloner)
- 
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=WhiteScreen&theme=algolia)](https://github.com/Hardwaregore/WhiteScreen)
- 
  
 ![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)
  
