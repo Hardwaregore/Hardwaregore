@@ -42,15 +42,15 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  # Projects I am working on:
  
- - [ ] Insane Chess 
- 
- - [ ] GrassBandits 
+ - [ ] Insane Chess  
  
  - [ ] Burh_os
  
  - [ ] Bish
  
  - [ ] BASHTE
+ 
+ - [ ] archbtw
  
  
 ----------------------------------------------------------------------------------------------------
@@ -80,7 +80,6 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=SSH-mgr&theme=algolia)](https://github.com/Hardwaregore/manager)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=AutomaticGitCloner&theme=algolia)](https://github.com/Hardwaregore/AutomaticGitCloner)
  
