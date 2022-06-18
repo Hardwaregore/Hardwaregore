@@ -2,7 +2,7 @@
 ![Website_Logo_Transparent](https://user-images.githubusercontent.com/88296644/154393020-9466edd0-3231-4526-9e5b-a2857e04973a.png)
 # <h2 align='center'><i>Hi, I'm @Hardwaregore </h2>
 
- I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS, Bash scripting, & java. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
+ I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS, Bash scripting, & java. I specialize in backend development with php and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
  
  
 Whats going on:  Currently, i am working on a website called "insane chess" where people can play custom variants of chess with friends. 
