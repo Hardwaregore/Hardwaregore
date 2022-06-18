@@ -44,8 +44,6 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - [ ] Insane Chess  
  
- - [ ] Burh_os
- 
  - [ ] Bish
  
  - [ ] BASHTE
