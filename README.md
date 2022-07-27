@@ -5,7 +5,7 @@
  I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS, Bash scripting, & java. I specialize in backend development with php and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
  
  
-Whats going on:  Currently, i am working on a website called "insane chess" where people can play custom variants of chess with friends. 
+Whats going on:  Currently, I am working on a website called "insane chess" where people can play custom variants of chess with friends. 
  
  - I can be reached at hardwaregore101@gmail.com
  
@@ -44,9 +44,9 @@ Whats going on:  Currently, i am working on a website called "insane chess" wher
  
  - [ ] Insane Chess  
  
- - [ ] Bish
+ - [x] ~~Bish~~ CANCELED
  
- - [ ] BASHTE
+ - [x] BASHTE
  
  - [ ] CLogger
  
