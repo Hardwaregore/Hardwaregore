@@ -7,7 +7,7 @@
  
 Whats going on:  Currently, I am working on a website called "insane chess" where people can play custom variants of chess with friends. 
  
- - I can be reached at hardwaregore101@gmail.com
+ - I can be reached at hardwaregore101@insanechess.xyz
  
 
  
