@@ -2,10 +2,9 @@
 ![Website_Logo_Transparent](https://user-images.githubusercontent.com/88296644/154393020-9466edd0-3231-4526-9e5b-a2857e04973a.png)
 # <h2 align='center'><i>Hi, I'm @Hardwaregore </h2>
 
- I am a young code dev trying to make websites. Right now i am trying to learn javascript. I have experience in HTML, Python, CSS, Bash scripting, & java. I specialize in backend development with php and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
+ I am an experianced backend developer. Right now i am trying to learn javascript. I have experience in HTML, CSS, & java. But mostly, I specialize in backend development with php and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
  
- 
-Whats going on:  Currently, I am working on a website called "insane chess" where people can play custom variants of chess with friends. 
+
  
  - I can be reached at hardwaregore101@insanechess.xyz
  
@@ -38,6 +37,8 @@ Whats going on:  Currently, I am working on a website called "insane chess" wher
 
 ------------------------------------------------------------------------------------------------------
  
+# DISCLAIMER: ALL OF MY REPO CARDS AND STATS HAVE STOPPED WORKING FOR NO REASON.
+ 
 # Github Stats: 
  
  ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue)
@@ -58,7 +59,7 @@ Whats going on:  Currently, I am working on a website called "insane chess" wher
  
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=insane-chess&theme=algolia)](https://github.com/Hardwaregore/insane-chess)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=aClock&theme=algolia)](https://github.com/Hardwaregore/insane-chess)
  
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
