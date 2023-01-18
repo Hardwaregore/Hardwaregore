@@ -37,21 +37,20 @@
 
 ------------------------------------------------------------------------------------------------------
  
-# DISCLAIMER: ALL OF MY REPO CARDS AND STATS HAVE STOPPED WORKING FOR NO REASON.
- 
+
 # Github Stats: 
  
  ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue)
 
 
-![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaraegore&show_icons=true&theme=algolia)
+![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia)
  
  
  
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaraegore&layout=compact&hide_title=false&langs_count=10&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact&hide_title=false&langs_count=10&theme=algolia)
 
-[![Hardwaregore's github activity graph](https://github-readme-activity-graph.cyclic.app?username=Hardwaaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hardwaregore's github activity graph](https://github-readme-activity-graph.cyclic.app?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -------------------------------------------------------------------------------------------------------------
  
@@ -59,13 +58,13 @@
  
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=aClock&theme=algolia)](https://github.com/Hardwaregore/insane-chess)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=aClock&theme=algolia)](https://github.com/Hardwaregore/aClock)
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHINGlol&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=AutomaticGiloltCloner&theme=algolia)](https://github.com/Hardwaregore/AutomaticGitCloner)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=AutomaticGitCloner&theme=algolia)](https://github.com/Hardwaregore/AutomaticGitCloner)
  
 ![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)
  
