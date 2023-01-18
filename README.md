@@ -50,7 +50,7 @@ Whats going on:  Currently, I am working on a website called "insane chess" wher
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact&hide_title=false&langs_count=10&theme=algolia)
 
-[![Hardwaregore's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hardwaregore's github activity graph](https://github-readme-activity-graph.cyclic.app?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -------------------------------------------------------------------------------------------------------------
  
