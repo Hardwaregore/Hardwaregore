@@ -50,7 +50,7 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact&hide_title=false&langs_count=10&theme=algolia)
 
-[![Hardwaregore's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hardwaregore)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hardwaregore's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hardwaregore&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  -------------------------------------------------------------------------------------------------------------
  
