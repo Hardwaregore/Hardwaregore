@@ -43,6 +43,7 @@
  ![Profile Views Counter](https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue)
 
 
+
 ![Hardwaregore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&theme=algolia)
  
  
