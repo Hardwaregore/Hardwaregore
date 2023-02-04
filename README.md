@@ -64,7 +64,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=aClock&theme=algolia)](https://github.com/Hardwaregore/aClock)
  
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE_EVERYTHING)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardwaregore&repo=DELETE-EVERYTHING&theme=algolia)](https://github.com/Hardwaregore/DELETE-EVERYTHING)
  
 ![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)
  
