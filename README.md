@@ -2,7 +2,7 @@
 ![Website_Logo_Transparent](https://user-images.githubusercontent.com/88296644/154393020-9466edd0-3231-4526-9e5b-a2857e04973a.png)
 # <h2 align='center'><i>Hi, I'm @Hardwaregore </h2>
 
- I am an experianced backend developer. Right now i am trying to learn javascript. I have experience in HTML, CSS, & java. But mostly, I specialize in backend development with PHP and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
+ I am an experienced backend developer. Right now i am trying to learn javascript. I have experience in HTML, CSS, & java. But mostly, I specialize in backend development with PHP and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
  
 
  
