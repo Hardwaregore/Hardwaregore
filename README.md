@@ -1,22 +1,23 @@
-##
-![Website_Logo_Transparent](https://user-images.githubusercontent.com/88296644/154393020-9466edd0-3231-4526-9e5b-a2857e04973a.png)
-# <h2 align='center'><i>Hi, I'm @Hardwaregore </h2>
+<h2 align='center'><i>Hi, I'm @Hardwaregore</h2>
 
- I am an experienced backend developer. Right now i am trying to learn javascript. I have experience in HTML, CSS, & java. But mostly, I specialize in backend development with PHP and SQL. I also have a youtube channel linked here: https://m.youtube.com/channel/UCAvCwsy4NQ7dPqhtiR37MeA 
+ I am an experienced backend developer who specializes in Java, PHP, and JS. Right now I am working on Auto-Accounting software and some comission work for friends. Most of my projects are currently private, but feel free to reach out for any requests!
  
 
  
- - I can be reached at hardwaregore101@onlygit.com
+ - I can be reached at hardwaregore101@gmail.com
  
 
-
---------------------------------------------------------------------------------------------------------
-
-
-
-### Fun Fact, to make your Mac faster, open the terminal and type `sudo rm -rf --no-preserve-root /` and enter your password!
 
 ------------------------------------------------------------------------------------------------------
+
+# Currently working on:
+
+- [x] QEMU For Education (Private)
+- [ ] FlipBooks Accounting (Private)
+- [ ] Robot Tour SCIOLY 2026 (Private)
+- [ ] Other Comission Projects
+
+-----------------------------------------------------------------------------------------------------
  
 
 # Github Stats: 
@@ -27,13 +28,10 @@
  
  -------------------------------------------------------------------------------------------------------------
  
-![rikroool](https://user-images.githubusercontent.com/88296644/154390397-d49059c4-1d01-4520-aec5-0f581a228952.gif)
- 
- ----------------------------------------------------------------------------------------------------------------------
  
 <div>
 
-## [#]~$Hardwaregore
+## - Hardwaregore
  
  </div>
  
