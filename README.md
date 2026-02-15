@@ -12,19 +12,16 @@
 
 # Currently working on:
 
-- [x] QEMU For Education (Private)
-- [ ] FlipBooks Accounting (Private)
-- [ ] Robot Tour SCIOLY 2026 (Private)
-- [ ] Other Comission Projects
+- [ ] [RepairBooks Accounting](https://github.com/repairbooks)
+- [x] VMs For Education (Private)
+- [x] [Robot Tour SCIOLY 2026](https://github.com/Hardwaregore/rTour-2025-2026)
 
 -----------------------------------------------------------------------------------------------------
  
 
 # Github Stats: 
 
-
-<br><div align="center"><img src="https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue"><br><br><table style="width:100%;border:none;" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=Hardwaregore&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&cache_seconds=3200"></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardwaregore&layout=compact&hide_title=false&langs_count=10&theme=algolia"></td></tr></table><br></div>
-
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Hardwaregore&label=Profile+Views&color=blue"></div>
  
  -------------------------------------------------------------------------------------------------------------
  
